@@ -2,22 +2,54 @@
     font-size:25px;
     width:100%;
     margin:0px;
-    box-shadow:5px 5px 10px yellow;
+    box-shadow:5px 5px 10px blue;
 }
 .heading_div{
     background-color:white;
     padding:10px;
     float:none;
     border-radius: 25px;
-    color:red;
+    color:blue;
     box-shadow:5px 5px 10px red;
 }
 .object_name{
     font-size:20px;
+    background-color:blue;
+    color:white;
 }
 .heading_2{
     font-size:20px;
 }
-body{
-    background-size: cover;
+.p1{
+    box-shadow:5px 5px 5px blue;
+    font-size:20px;
+    background-color: red;
 }
+.p2{
+    box-shadow:5px 5px 5px blue;
+    font-size:20px;
+    background-color: red;
+}
+.footer_div{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:blue;
+    color:white;
+}
+canvas{
+  border:5px solid red;
+  border-radius:5px;
+  box-shadow:5px 5px 5px red;
+  margin-top:250px;
+}
+.img1{
+    width:55px;
+    height:55px;
+    border-radius:60px;
+}
+body{
+    background-size:cover;
+}
+
+
